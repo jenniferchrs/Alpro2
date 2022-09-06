@@ -16,3 +16,5 @@ def kalkulator(x,y,op):
     return hasil
 
 print(kalkulator(x,y,op))
+
+print("terima kasih")
